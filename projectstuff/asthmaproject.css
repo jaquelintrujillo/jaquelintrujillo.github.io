@@ -30,13 +30,38 @@ nav a:hover {
   display: inline;
   margin-top: 50px;
   font-size: 60px;
+  text-align: center;
 }
 #sabritas {
-  text-align: center;
 }
 h1 {
   text-align: center;
 }
 #chevere {
   text-align: center;
+}
+.pringles {
+  flex-direction: row;
+  display: flex;
+  margin-right: 5px;
+}
+.one {
+  flex:2;
+}
+.center {
+  display: block;
+  width: 27%;
+  padding: 37px;
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+.feet {
+  text-align: center;auto
+}
+.grouppicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
