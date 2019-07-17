@@ -58,3 +58,10 @@ nav a:hover {
 #Leandro {
   text-align: center;
 }
+.feet {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  height: 1000px;
+}
