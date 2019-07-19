@@ -43,7 +43,7 @@ h1 {
 .pringles {
   flex-direction: row;
   display: flex;
-  margin-right: 5px;
+  margin-right: 15px;
 }
 .one {
   flex:2;
@@ -57,7 +57,7 @@ h1 {
   margin-right: auto;
 }
 .feet {
-  text-align: center;auto
+  text-align: center;
 }
 .grouppicture {
   display: block;
@@ -71,4 +71,8 @@ margin-left: auto;
 margin-right: auto;
 width: 10%;
 height: 5%;
+}
+.toes {
+  margin-right: 15%;
+  margin-left: 15%;
 }
